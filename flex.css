@@ -1,0 +1,17 @@
+/* nav */
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    display: inline-flex;
+    float: right;
+}
+/* welcome */
+
+.container-button{
+    display: inline-flex;
+    margin-left: 42%;
+    padding:  15px 0;
+}
